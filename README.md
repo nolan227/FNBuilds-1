@@ -267,8 +267,7 @@ Nothing for now
 
 ## Season 28
 
-28.30 (Nothing for now)
-
+28.30 [Download Manifest](https://www.dropbox.com/scl/fi/89qboe30phk9eyyvs69kp/6rnGKJUE4ZR1wE8YbEipgborM43rVQ.manifest?rlkey=ihl1dsx7oo5q484ckuoqzvtlr&st=icgl4zf1&dl=0)
 ## Playable Events
 
 v3.6 - 16.2 GB | It's raining meteors | Play using Rift
