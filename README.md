@@ -265,6 +265,8 @@ Nothing for now
 
 27.11-CL-29739262 (27.11) : [Download](https://drive.usercontent.google.com/download?id=1_JWP1CKPtxwEPof6ps6FNwQHGO_qJrEu&export=download&authuser=0)
 
+## Season 28
+
 
 ## Playable Events
 
