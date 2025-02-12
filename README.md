@@ -267,6 +267,7 @@ Nothing for now
 
 ## Season 28
 
+28.30 (Nothing for now)
 
 ## Playable Events
 
